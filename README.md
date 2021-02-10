@@ -1,2 +1,2 @@
 # prueba7
- Repo publico con gente
+ Repo público con gente
